@@ -3,7 +3,7 @@ footer {
   color: white;
   min-height: 10vh;
   padding: 0% 5%;
-  @include flex(space-between, center, row);
+  @include flex(flex-start, center, row);
   flex-wrap: wrap;
   h4 {
     flex: 1 1 40rem;
