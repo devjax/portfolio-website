@@ -138,10 +138,7 @@ nav ul {
 .intro h2 {
   font-size: 8rem;
   padding-top: 2rem;
-  background: -webkit-gradient(linear, left top, right top, from(#38d39f), to(#38a4d3));
-  background: linear-gradient(left, #38d39f, #38a4d3);
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #38a4d3;
   display: inline-block;
 }
 
